@@ -42,6 +42,7 @@ app.get('/db', function (request, response) {
 					}
 				);
 			}
+		});
 	});
 });
 
